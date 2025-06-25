@@ -1,6 +1,5 @@
 # WeatherPredictionAustralia
 
-# WeatherPredictionAustralia
 
 ## Overview
 
