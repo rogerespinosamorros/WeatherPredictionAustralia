@@ -1,6 +1,5 @@
 # WeatherPredictionAustralia
 
-
 ## Overview
 
 **WeatherPredictionAustralia** is a data-driven project that aims to assess the future habitability of Australia over the next century, based on climate trends. By collecting, analyzing, and modeling various weather-related datasets—such as rainfall, annual temperature, and other relevant indicators—the project seeks to provide predictive insights into how Australia's climate may evolve and what that means for human habitability.
@@ -9,7 +8,7 @@
 
 Climate change is one of the most pressing challenges of our time. Australia, with its unique environmental conditions and vulnerability to extreme weather events, serves as a compelling case study for understanding future climate impacts. This project is motivated by the question:
 
-> **Will Australia remain habitable in terms of climate trends over the next 100 years?**
+> **Will Australia remain habitable in terms of climate trends over the next 50 or 100 years?**
 
 ## Project Objectives
 
