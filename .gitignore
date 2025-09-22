@@ -6,3 +6,4 @@ data/
 .env/
 .venv/
 climate.db
+.vscode/
