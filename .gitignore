@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+env/
+venv/
+weather/
+*.conda
+*.yaml.lock
+
+# Data
+data/
+data/raw/
+data/processed/
+data/external/
+*.csv
+*.xlsx
+*.nc
+*.tif
+*.zip
+
+# Models
+models/
+*.pkl
+*.joblib
+*.h5
+
+# Outputs
+outputs/
+reports/
+figures/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# IDE / VSCode
+.vscode/
+.idea/
+.DS_Store
+
+# OS
+Thumbs.db
