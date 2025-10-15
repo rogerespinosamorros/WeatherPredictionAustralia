@@ -7,17 +7,15 @@ By combining Python-based analytics and climate data, it aims to understand **de
 
 ---
 
-## 📂 Project Structure
-
+## 📂 Project structure
 
 weatherPredictionAustralia/
-├── data/ # Raw and processed datasets
-├── notebooks/ # Jupyter notebooks for exploration and modeling
-├── src/ # Python scripts for data processing and modeling
-├── models/ # Saved models and metrics
-├── outputs/ # Visualizations and reports
-└── docs/ # References and documentation
-
+- data/ — Raw and processed datasets
+- notebooks/ — Jupyter notebooks for exploration and modeling
+- src/ — Python scripts for data processing and modeling
+- models/ — Saved models and metrics
+- outputs/ — Visualizations and reports
+- docs/ — References and documentation
 
 ---
 
@@ -27,3 +25,4 @@ weatherPredictionAustralia/
 ```bash
 git clone https://github.com/yourusername/weatherPredictionAustralia.git
 cd weatherPredictionAustralia
+```
